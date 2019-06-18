@@ -1,0 +1,7 @@
+[package]
+name = "bench-utils"
+
+################################# Dependencies ################################
+
+[features]
+timer = [ "colored" ]
